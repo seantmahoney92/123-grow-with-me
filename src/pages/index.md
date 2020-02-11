@@ -1,21 +1,22 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: 123 Grow With Me
+image: /img/4k-wallpaper-adorable-blur-boy-1148998.jpg
+heading: 123 Grow with me
+subheading: An Accredited Private Learning Center for Young Children.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: 123 Grow with Me
+  description: >-
+    123 Grow with me Daycare and early learning center has progressive learning
+    programs to stimulate your pre-schooler's curiosity. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  At 123 Grow with Me Daycare and Learning Center, our philosophy is that all
+  children are special and unique. Every child has their own unique rate of
+  growth, and a very distinct pattern of learning skills. The most important
+  educators in a young child’s life are their parents and families. 123 Grow
+  with Me Daycare goal is to provide the optimal learning experience for the
+  child and to provide the families with the appropriate development
+  information.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -68,3 +69,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
